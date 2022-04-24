@@ -1,0 +1,1 @@
+# Here the nr-dashboard-hcl-gen tool will add dashboard configuration
