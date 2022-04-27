@@ -13,6 +13,7 @@
 Run the script
 you will be asked for the json file location and about providing the resource label
 
+
 ```
 curl {{ repository.name }}/scripts/install.sh | bash
 ```
